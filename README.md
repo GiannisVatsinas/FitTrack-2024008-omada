@@ -22,3 +22,8 @@ Starter project for the FitTrack training and trainer booking application.
 - `client` — clients for external APIs
 
 The packages are placeholders for the team's agreed use cases and database/API design.
+
+## Project documentation
+
+- [Ρόλοι και βασικές περιπτώσεις χρήσης](docs/roles-and-use-cases.md)
+
